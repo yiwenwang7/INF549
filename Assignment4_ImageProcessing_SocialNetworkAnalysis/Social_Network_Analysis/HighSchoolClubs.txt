@@ -17,14 +17,14 @@ Hammond.Christine,0,0,0,0,1,0,0
 Hobbs.Tiffany,0,0,0,0,1,0,0
 Jarvis.Elaine,0,0,0,0,0,0,1
 Lee.Cindy,0,0,0,0,1,0,0
-Lewis.Phillip,1,0,0,0,0,0,0
+Lewis.Phillip,1,0,0,0,0,0,1
 Marshall.John,0,0,0,0,0,0,1
 Palmer.Marie,0,0,0,0,1,0,0
-Peters.John,0,0,0,0,1,0,0
+Peters.John,0,0,0,0,1,0,1
 Phillips.Mark,1,0,0,0,0,0,0
 Porter.Kevin,1,1,0,0,1,0,0
 Quincy.Alexandra,0,0,0,1,0,1,0
 Russell.Joseph,0,0,0,0,1,0,0
 Vernon.Frank,0,0,0,0,0,0,1
 White.Alan,1,1,1,0,0,0,0
-Young.Cameron,1,1,1,0,1,1,0
+Young.Cameron,1,1,1,0,1,1,1
